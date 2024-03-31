@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    display: block;
+    align-items: center;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.main-title {
+    font-weight: 500;
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+
+.download-link {
+    color: aquamarine;
+    font-size: 16px;
+    margin-bottom: 50px;
+}
+
+.line {
+    margin: 40px;
+}
+
+.video {
+    padding: 20px;
+    padding-top: 100px;
+    margin-bottom: 50px;
+}
+
+.secondary-title {
+    font-size: 42px;
+    font-weight: 300;
+    color: #f6f6f6;
+    margin-bottom: 20px;
+}
+
+.guide-text {
+    font-size: 21px;
+    color: #b0b0b0;
+    margin-bottom: 20px;
+}
